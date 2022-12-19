@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="20" viewBox="0 0 28 20">
+    <defs>
+        <linearGradient id="k77ype3mgc" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F0F0F0"/>
+        </linearGradient>
+        <linearGradient id="spfv8uz6ud" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FF2E3B"/>
+            <stop offset="100%" stop-color="#FC0D1B"/>
+        </linearGradient>
+        <rect id="e412kl4wja" width="28" height="20" x="0" y="0" rx="2"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="fc67w3wovb" fill="#fff">
+            <use xlink:href="#e412kl4wja"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#e412kl4wja"/>
+        <path fill="#0A17A7" d="M0 0H28V20H0z" mask="url(#fc67w3wovb)"/>
+        <path fill="#FF2E3B" stroke="#FFF" stroke-width=".667" d="M4.333 4.153L-.9-.333H.667l.193.062L5.44 3h1.131l5.762-3.601v.934c0 .296-.17.627-.417.803l-4.25 3.036V5.18l4.3 3.685c.377.323.185.802-.3.802-.257 0-.588-.107-.804-.261L6.56 6.333H5.429L-.333 9.935v-1.44l4.666-3.333V4.153z" mask="url(#fc67w3wovb)"/>
+        <path fill="url(#k77ype3mgc)" d="M0 3.333V6h4.667v3.34c0 .364.306.66.673.66h1.32c.372 0 .673-.3.673-.66V6h4.658c.373 0 .676-.306.676-.673v-1.32c0-.372-.302-.674-.676-.674H7.333V0H4.667v3.333H0z" mask="url(#fc67w3wovb)"/>
+        <path fill="url(#spfv8uz6ud)" d="M0 4L5.333 4 5.333 3.333 5.333 0 6.667 0 6.667 3.333 6.667 4 12 4 12 5.333 6.667 5.333 6.667 6 6.667 9.333 5.333 9.333 5.333 6 5.333 5.333 0 5.333z" mask="url(#fc67w3wovb)"/>
+        <path fill="#FFF" d="M6 16.333L4.824 16.951 5.049 15.642 4.098 14.715 5.412 14.524 6 13.333 6.588 14.524 7.902 14.715 6.951 15.642 7.176 16.951zM20 17.333L19.057 17.609 19.333 16.667 19.057 15.724 20 16 20.943 15.724 20.667 16.667 20.943 17.609zM20 4.667L19.057 4.943 19.333 4 19.057 3.057 20 3.333 20.943 3.057 20.667 4 20.943 4.943zM24 8.667L23.057 8.943 23.333 8 23.057 7.057 24 7.333 24.943 7.057 24.667 8 24.943 8.943zM16 10L15.057 10.276 15.333 9.333 15.057 8.391 16 8.667 16.943 8.391 16.667 9.333 16.943 10.276zM22 11.667L21.529 11.805 21.667 11.333 21.529 10.862 22 11 22.471 10.862 22.333 11.333 22.471 11.805z" mask="url(#fc67w3wovb)"/>
+    </g>
+</svg>
